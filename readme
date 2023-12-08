@@ -1,1 +1,1 @@
-1、QAnchor：当通过某个query搜索出一批视频，并且点击了某个视频A，把query成为这个视频A的QAnchor。
+1、QAnchor：当通过某个query搜索出一批视频，并且点击了某个视频A，就把query称为这个视频A的QAnchor。
